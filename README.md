@@ -2,6 +2,12 @@
 
 This repository contains the main simulation files used in the study:
 
+## Structure
+
+### `structure/POSCAR_LiGa5O8_relaxed`
+
+Relaxed primitive-cell structure of pristine LiGa5O8 used as the reference structure for subsequent calculations.
+
 **Defect-dependent thermal transport in LiGa5O8: A machine-learning interatomic potential study**
 
 The data include force constants used in Boltzmann transport equation (BTE) calculations and input files for molecular dynamics (MD) simulations based on the trained moment tensor potential (MTP).
